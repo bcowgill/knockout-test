@@ -1,0 +1,25 @@
+{
+  "name": "knockout-test",
+  "version": "0.0.0",
+  "description": "Just playing around with knockout library",
+  "main": "knockout-test.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "knockout"
+  ],
+  "authors": [
+    "Brent S.A. Cowgill"
+  ],
+  "license": "The Unlicense",
+  "homepage": "https://github.com/bcowgill/knockout-test",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
