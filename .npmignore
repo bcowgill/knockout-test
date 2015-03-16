@@ -1,0 +1,13 @@
+.gitignore
+lib/knockout-test.js
+test
+doc
+scripts
+Makefile
+Gruntfile.js
+.jshint*
+jsdoc.conf.json
+*.txt
+*.bak
+*.sublime-*
+*.timestamp
