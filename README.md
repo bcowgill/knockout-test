@@ -24,3 +24,7 @@ bower prune    # clean up extraneous packages
 bower search knockout   # all knockout related packages
 
 bower update  # update packages
+
+
+wget http://knockoutjs.com/examples/resources/knockout.simpleGrid.3.0.js
+
